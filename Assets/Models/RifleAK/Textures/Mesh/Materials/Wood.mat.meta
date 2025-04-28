@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6eefe47574b96764d80e41198dc06be3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209384
+  packageName: Rifle AK
+  packageVersion: 1.0
+  assetPath: Assets/RifleAK/Textures/Mesh/Materials/Wood.mat
+  uploadId: 470594

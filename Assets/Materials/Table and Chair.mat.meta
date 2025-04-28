@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2f144f57ed25154e99f26d1c8087c69
+timeCreated: 1518828146
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111726
+  packageName: Folding Table and Chair PBR
+  packageVersion: 1.0
+  assetPath: Assets/devotid/Folding Table and Chair/Materials/Table and Chair.mat
+  uploadId: 230370

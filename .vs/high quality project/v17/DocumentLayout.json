@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UNITY FILES\\high quality project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|e:\\unity files\\high quality project\\assets\\scripts\\fusionplayerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fusionplayerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UNITY FILES\\third person game XD\\Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\ppswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ppswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\globalreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\poolingbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\poolingbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\poolinggun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\poolinggun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\poolingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\poolingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\cameratransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameratransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UNITY FILES\\high quality project\\Assets\\PlayerSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FusionPlayerSpawner.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\FusionPlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FusionPlayerSpawner.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\FusionPlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FusionPlayerSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:24:40.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\third person game XD\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "..\\third person game XD\\Assets\\Scripts\\Player.cs",
+              "ToolTip": "E:\\UNITY FILES\\third person game XD\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "..\\third person game XD\\Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:04:35.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:03:35.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerSpawner.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\PlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerSpawner.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\PlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\PlayerSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:23:54.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:34:52.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PoolingGun.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoolingGun.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingGun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoolingGun.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:23:32.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PoolingObject.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoolingObject.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoolingObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:21:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PoolingBullet.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoolingBullet.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoolingBullet.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:13:26.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraTransition.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\CameraTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraTransition.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\CameraTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraTransition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:42:44.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAhwG4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:39:34.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FSM.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\FSM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FSM.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\FSM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FSM.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:27:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PPSwitcher.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PPSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PPSwitcher.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PPSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PPSwitcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:30:54.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalReference.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\GlobalReference.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalReference.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\GlobalReference.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalReference.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:32:34.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:19:48.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

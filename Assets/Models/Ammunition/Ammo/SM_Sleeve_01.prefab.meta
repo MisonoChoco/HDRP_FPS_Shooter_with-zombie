@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edd1695fb9269ad4fa6aabc79ce45935
+timeCreated: 1464111470
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63382
+  packageName: GAZ Ammo
+  packageVersion: 1.0
+  assetPath: Assets/GAZ Ammo/Prefabs/SM_Sleeve_01.prefab
+  uploadId: 121230

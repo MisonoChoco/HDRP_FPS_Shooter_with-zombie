@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9f3086da92434da0bc1518f19f0ce86
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215357
+  packageName: Erbeilo 3D - Chiness Moduler House
+  packageVersion: 1.0.0
+  assetPath: Assets/Settings/HDRPDefaultResources/HDRenderPipelineAsset.asset
+  uploadId: 485403
