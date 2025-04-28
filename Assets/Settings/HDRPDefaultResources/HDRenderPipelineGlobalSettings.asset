@@ -193,24 +193,7 @@ MonoBehaviour:
       - rid: 8648883362532426013
       - rid: 5612271387184988481
     m_RuntimeSettings:
-      m_List:
-      - rid: 8648883362532425982
-      - rid: 8648883362532425985
-      - rid: 8648883362532425986
-      - rid: 8648883362532425987
-      - rid: 8648883362532425988
-      - rid: 8648883362532425990
-      - rid: 8648883362532425992
-      - rid: 8648883362532425993
-      - rid: 8648883362532425995
-      - rid: 8648883362532425998
-      - rid: 8648883362532425999
-      - rid: 8648883362532426000
-      - rid: 8648883362532426001
-      - rid: 8648883362532426003
-      - rid: 8648883362532426006
-      - rid: 8648883362532426010
-      - rid: 8648883362532426013
+      m_List: []
   renderingLayerNames:
   - Light Layer default
   - Light Layer 1
@@ -437,7 +420,7 @@ MonoBehaviour:
         m_Camera:
           bitDatas:
             data1: 72198260625768269
-            data2: 13799031439032811544
+            data2: 18410717457460199448
           lodBias: 1
           lodBiasMode: 0
           lodBiasQualityLevel: 0
@@ -445,7 +428,7 @@ MonoBehaviour:
           maximumLODLevelMode: 0
           maximumLODLevelQualityLevel: 0
           sssQualityMode: 0
-          sssQualityLevel: 0
+          sssQualityLevel: 1
           sssCustomSampleBudget: 20
           sssCustomDownsampleSteps: 0
           msaaMode: 1
