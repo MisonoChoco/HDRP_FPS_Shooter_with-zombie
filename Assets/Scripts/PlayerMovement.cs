@@ -1,7 +1,6 @@
 using UnityEngine;
-using Fusion;
 
-public class PlayerMovement : NetworkBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     private CharacterController controller;
 

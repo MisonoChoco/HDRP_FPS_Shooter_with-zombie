@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "E:\\UNITY FILES\\high quality project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|e:\\unity files\\high quality project\\assets\\scripts\\fusionplayerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|e:\\unity files\\high quality project\\assets\\scripts\\fusionplayersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fusionplayersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|E:\\UNITY FILES\\high quality project\\assets\\scripts\\fusionplayerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18CEAE56-F18B-E311-9782-398F3D825AEB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fusionplayerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -82,6 +86,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FusionPlayerSetup.cs",
+              "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\FusionPlayerSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FusionPlayerSetup.cs",
+              "ToolTip": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\FusionPlayerSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FusionPlayerSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:53:18.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FusionPlayerSpawner.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\FusionPlayerSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FusionPlayerSpawner.cs",
@@ -89,12 +106,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FusionPlayerSpawner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T01:24:40.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T01:24:40.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\third person game XD\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "..\\third person game XD\\Assets\\Scripts\\Player.cs",
@@ -102,11 +118,12 @@
               "RelativeToolTip": "..\\third person game XD\\Assets\\Scripts\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T01:04:35.885Z"
+              "WhenOpened": "2025-03-17T01:04:35.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PlayerSpawner.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\PlayerSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerSpawner.cs",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Weapon.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
@@ -142,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PoolingGun.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingGun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PoolingGun.cs",
@@ -154,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PoolingObject.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PoolingObject.cs",
@@ -166,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PoolingBullet.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PoolingBullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PoolingBullet.cs",
@@ -178,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CameraTransition.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\CameraTransition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraTransition.cs",
@@ -190,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
@@ -202,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FSM.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\FSM.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FSM.cs",
@@ -214,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PPSwitcher.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\PPSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PPSwitcher.cs",
@@ -226,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GlobalReference.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\GlobalReference.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalReference.cs",
@@ -238,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Bullet.cs",
               "DocumentMoniker": "E:\\UNITY FILES\\high quality project\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
