@@ -70,4 +70,19 @@ public class SoundManager : MonoBehaviour
                 break;
         }
     }
+
+    public void StopReloadSound(Weapon.WeaponModel weapon)
+    {
+        switch (weapon)
+        {
+            case Weapon.WeaponModel.AK47:
+                Reloading_AK.Stop();
+                break;
+
+            case Weapon.WeaponModel.HandgunM1911:
+                Reloading_M1911.Stop();
+                break;
+        }
+    }
+
 }

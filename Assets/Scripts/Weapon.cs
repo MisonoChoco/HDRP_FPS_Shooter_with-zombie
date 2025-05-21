@@ -39,6 +39,8 @@ public class Weapon : MonoBehaviour
     [Header("Reload")]
     public float reloadTime;
 
+    private Coroutine reloadCoroutine;
+
     public int magSize, bulletsLeft;
     public bool isReloading;
 
@@ -204,14 +206,44 @@ public class Weapon : MonoBehaviour
 
     private void Reload()
     {
+        if (reloadCoroutine != null)
+            StopCoroutine(reloadCoroutine);
+
+        reloadCoroutine = StartCoroutine(ReloadRoutine());
+    }
+
+    private IEnumerator ReloadRoutine()
+    {
         readyToShoot = false;
         isReloading = true;
 
         SoundManager.Instance.PlayReloadSound(thisWeaponModel);
-
         animator.SetTrigger("RELOAD");
 
-        Invoke("ReloadComplete", reloadTime);
+        float elapsed = 0f;
+
+        while (elapsed < reloadTime)
+        {
+            if (Input.GetMouseButtonDown(0)) // Cancel if player presses left mouse during reload
+            {
+                CancelReload();
+                yield break;
+            }
+
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+
+        ReloadComplete();
+    }
+
+    private void CancelReload()
+    {
+        isReloading = false;
+        readyToShoot = true;
+        animator.ResetTrigger("RELOAD");
+        animator.CrossFade("Idle", 0.1f);
+        SoundManager.Instance.StopReloadSound(thisWeaponModel);
     }
 
     private void ReloadComplete()
