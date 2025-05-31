@@ -1,3 +1,3 @@
 # HDRP_FPS_Shooter_with-zombie
- self project, still buggy, fixes needed
-learning how to make shotgun pellets that shoot like a shotgun...
+still buggy, fixes needed
+idk when am going to keep developing this one... schedules are killing me
